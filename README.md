@@ -1,8 +1,8 @@
-# chemical-kinetics-simulator
+# chemical-reactor-simulator
 Simulation of chemical reactors (Batch, CSTR, PFR) using analytical and numerical methods to model reaction kinetics and concentration changes over time.
 
 # Purpose
-This project simulates chemical reactions in different reactor types using exact numerical and analytical methods to analyze concentration changes and conversion over time.
+This project explores how concentration of reactants and products change over time in various reactor types - such as Batch, CSTR (continuous stirred-tank reactor), PFR (plug flow reactor). Additionally, it calculates reaction progress, concentration behavior, and conversion in first-order reaction systems.
 
 # ⚙️ Features 
 - Batch, CSTR, PFR modeling (concentration changes in each)
